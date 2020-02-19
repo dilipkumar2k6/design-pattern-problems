@@ -1,2 +1,3 @@
 # design-pattern-problems
-design-pattern-problems
+- Widget factory
+
